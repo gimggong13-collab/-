@@ -1,0 +1,6 @@
+{
+  "name": "수학 방탈출 개발 연구 포털",
+  "description": "2022 개정 교육과정 수학과제 탐구 [12수과02-04] 개발 연구 연계 수학 방탈출 문제 제작, 동료 검증, 수정 이력 및 모둠 테마 통합 포털",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
